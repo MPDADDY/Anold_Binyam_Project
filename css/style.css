@@ -1,0 +1,49 @@
+#main {
+  background-color: gainsboro;
+  padding: 10px;
+  font-size: large;
+  text-align: center;
+}
+#title {
+  color: black;
+  background-color: gainsboro;
+  padding: 20px;
+}
+#img-div {
+  background-color: ghostwhite;
+  height: auto;
+}
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 60%;
+}
+#img-caption {
+  color: black;
+  display: block;
+  text-align: center;
+}
+#tribute-info {
+  color: black;
+  font-size: large;
+  text-align: center;
+}
+#tribute {
+  background-color: gainsboro;
+  display: block;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+#tribute-link {
+  font-size: large;
+  color: green;
+}
+#p1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#btm {
+  padding-left: 25%;
+  padding-right: 25%;
+}
